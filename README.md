@@ -1,2 +1,2 @@
 # first_repository
-git commit -m 'added readme'
+This is my first repository!
